@@ -1,0 +1,1 @@
+Hier werden Dateien mit Texten auf deutsch aufgezeigt, sodass man das script testen kann.

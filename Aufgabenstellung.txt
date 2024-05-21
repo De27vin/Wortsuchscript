@@ -1,0 +1,4 @@
+1) Den Benutzer nach einem Dateinamen fragen.
+2) Den Benutzer nach einem Suchbegriff/Suchwort fragen.
+3) Die Datei durchsuchen und die Anzahl der Zeilen zählen, die das Suchwort enthalten.
+4) Das Ergebnis anzeigen.
